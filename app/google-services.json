@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "884417078439",
+    "firebase_url": "https://droidchat-1453b.firebaseio.com",
+    "project_id": "droidchat-1453b",
+    "storage_bucket": "droidchat-1453b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884417078439:android:a050bfc74752d8bd",
+        "android_client_info": {
+          "package_name": "com.jtam2017.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884417078439-dmq36hgmc2k3g828992vn7s6fu7tfc6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1b5Ig4lsH4u5qbuQaU2G_lj5yBRhGWow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
